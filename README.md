@@ -9,7 +9,7 @@
 
 <p align="center"> 
  
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,ps&theme=dark)]
+![My Skills](https://skillicons.dev/icons?i=py,vscode,ps&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
