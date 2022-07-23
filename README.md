@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Discord bot**
 
 <strong>
- - 👯 My Professional skills
+  - 👯 My Professional skills
     </strong>
 
 <h3 align="left">Connect with me:</h3>
