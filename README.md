@@ -1,4 +1,3 @@
-<img align='right' src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' width='200"'>
 <h1 align="center">Hi ??, I'm NoNom</h1>
 <h3 align="center">A developer from Iran</h3>
 
