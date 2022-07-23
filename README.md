@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Discord bot**
 
-- 👯 I’m looking to collaborate on **Telegram bot**
+<strong>
+ - 👯 My Professional skills
+    </strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
