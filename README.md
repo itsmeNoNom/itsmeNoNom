@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NoNom</h1>
 <h3 align="center">A developer from Iran 🇮🇷</h3>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://im4.ezgif.com/tmp/ezgif-4-bbfc892513.gif' width='200"'>
 
 - 🔭 I’m currently working on **Discord bot**
 
